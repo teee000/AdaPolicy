@@ -1,0 +1,127 @@
+# CNCPolicy config: next-chunk prediction + EMA target (train_metaworld_ema.py)
+# Ablation switches: set training.use_next_chunk_pred / use_ema to false to
+# disable next-chunk prediction and EMA respectively (falls back to detached
+# online parameters).
+
+common:
+  # --- MetaWorld single Sawyer arm ---
+  action_dim: 4          # [dx, dy, dz, gripper]  (Box(-1,1,(4,)))
+  state_dim: 4           # proprioception ONLY: [eef_xyz(3), gripper(1)]
+
+  action_chunk_size: 16
+  proprio_len: 1
+
+  num_inference_steps: 10
+  action_execution_horizon: 8
+
+
+dataset:
+  type: "metaworld"      # (informational; create_dataset builds the same dataset class)
+
+  # Root that contains one folder per task:
+  #   <dataset_dir>/<task>/demo_<data_mode>/data/*.hdf5
+  dataset_dir: "/home/yf/Desktop/code/MetaWorldData"
+
+  data_mode: "clean"     # matches gen_data_hdf5.py --split clean  -> demo_clean
+
+  # MetaWorld render cameras are 'corner' and 'behind'; use one for single-task testing.
+  camera_names: ["corner", "behind"]
+
+  # (W, H). DINOv3 patch_size=16 -> both must be multiples of 16. Render res is 256x256.
+  image_size: [256, 256]
+
+  # Task-condition vectors (precompute: scripts/precompute_task_cond.py).
+  # Only loaded when model.use_task_cond=true.
+  task_cond_dir: "./task_cond/metaworld"
+
+  image_aug: false
+
+  # MetaWorld envs clip actions to [-1, 1] internally; the hdf5 files store the
+  # raw (unclipped) expert outputs. Clipping at load time keeps train targets
+  # aligned with what eval can actually execute. Must match the --clip used
+  # for utils/stat-metaworld.json.
+  action_clip: 1.0
+
+  future_frame_offset: null
+
+  indices_config:
+    state_indices: [0]
+    camera_indices: [0]
+    # Action chunk 0..15  (length must equal common.action_chunk_size)
+    action_indices: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+
+
+model:
+  num_registers: 2       # action-expert internal registers (unrelated to DINO cls/register)
+
+  use_task_cond: true
+
+  vision_encoder:
+    checkpoint_path: "./dinov3_pretrain/dinov3-vitb16-pretrain-lvd1689m"   # EDIT to your local DINOv3
+    feat_layers: [5, 8]
+
+    # ---- DISABLE CLS + register tokens in the vision features ----
+    include_cls_register: false
+
+    fusion_mode: "concat"
+    concat:
+      proj_type: "linear"
+      pre_norm: true
+      out_dim: null
+
+  # Future-frame feature prediction (training-time aux loss). Uses the primary
+  # camera's own future frame, so it is arm-count agnostic. Disable if you want a
+  # leaner first run.
+  future_feat:
+    enabled: false
+    attach: "cond_tokens"
+    target_layer: -8
+    num_decoder_layers: 4
+    num_heads: 4
+
+  action_expert:
+    depth: 6
+    hidden_size: 512
+    num_heads: 4
+    vlm_adapter_num_queries: 32
+    adapter_depth: 4
+
+
+training:
+  batch_size: 128
+
+  time_sampler: "logit_normal"
+  time_mu: 0.0
+  time_sigma: 1.0
+
+  learning_rate: 2e-4
+  lr_min: 5.0e-5
+  weight_decay: 1e-2
+  betas: [0.9, 0.99]
+  grad_clip_norm: 1.0
+
+  epochs: 60
+  grad_accum_steps: 1
+  save_interval_epoch: 5
+
+  # ---- Next-chunk prediction (CNCPolicy main method) ----
+  use_next_chunk_pred: true    # false -> plain baseline
+  lambda_next_chunk: 0.8
+  use_ema: true                # true: second forward uses EMA shadow params; false: detached online params
+  ema_decay: 0.99              # decay of the EMA shadow params (fp32 shadow)
+
+  lambda_future_feat: 0.5
+
+  use_vel_weight: false
+  vel_weight_alpha: 0.2
+  vel_weight_sigma: 0.01
+
+
+inference:
+  smooth_actions: true
+  smooth_sigma: 1.0
+
+
+system:
+  num_workers: 16
+  pin_memory: true
