@@ -9,6 +9,11 @@ imitation learning on 50 MetaWorld tasks.
 
 The `robotwin/` directory contains training code for 50 tasks in the RoboTwin 2.0 environment.
 
+## Videos
+
+- [Earphone](assets/videos/AdaPolicy_earphone.mp4)
+- [Shoelacing](assets/videos/AdaPolicy_shoelacing.mp4)
+
 
 ### Installation
 
