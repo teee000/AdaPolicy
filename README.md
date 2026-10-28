@@ -1,11 +1,11 @@
-# Eliciting Anticipatory Latent Dynamics in Robot Policies via Next-Chunk Prediction
+# AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction
 
-**CNCPolicy** is a cascaded next-chunk prediction framework that elicits anticipatory
+**AdaPolicy** is a cascaded next-chunk prediction framework that elicits anticipatory
 latent dynamics purely from action supervision, without explicit future supervision in
 pixel or latent space. An Online Action Head jointly produces the current action chunk
 and an evolved latent state, on which a cascaded Unrolled Action Head forecasts the next
 chunk so that the resulting loss shapes the latent dynamics of the online policy. The
-unroll operates only during training, making CNCPolicy plug-and-play with zero
+unroll operates only during training, making AdaPolicy plug-and-play with zero
 inference-time overhead.
 
 This directory is the MetaWorld imitation-learning release: joint imitation learning on
@@ -15,8 +15,8 @@ This directory is the MetaWorld imitation-learning release: joint imitation lear
 ### Installation
 
 ```bash
-conda create -n cncpolicy python=3.10 -y
-conda activate cncpolicy
+conda create -n adapolicy python=3.10 -y
+conda activate adapolicy
 
 pip install torch==2.7.1 torchvision==0.22.1 --index-url https://download.pytorch.org/whl/cu128
 

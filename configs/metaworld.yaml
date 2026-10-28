@@ -1,4 +1,4 @@
-# CNCPolicy config: next-chunk prediction + EMA target (train_metaworld_ema.py)
+# AdaPolicy config: next-chunk prediction + EMA target (train_metaworld_ema.py)
 # Ablation switches: set training.use_next_chunk_pred / use_ema to false to
 # disable next-chunk prediction and EMA respectively (falls back to detached
 # online parameters).
@@ -104,7 +104,7 @@ training:
   grad_accum_steps: 1
   save_interval_epoch: 5
 
-  # ---- Next-chunk prediction (CNCPolicy main method) ----
+  # ---- Next-chunk prediction (AdaPolicy main method) ----
   use_next_chunk_pred: true    # false -> plain baseline
   lambda_next_chunk: 0.8
   use_ema: true                # true: second forward uses EMA shadow params; false: detached online params

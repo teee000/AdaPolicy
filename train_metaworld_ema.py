@@ -1,5 +1,5 @@
 """
-CNCPolicy imitation-learning training entry.
+AdaPolicy imitation-learning training entry.
 
 Next-chunk prediction: in addition to flow-matching denoising of the first
 chunk, a second forward predicts the next chunk; the second forward uses EMA
