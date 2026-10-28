@@ -47,14 +47,6 @@ cd $MODELSCOPE_CACHE/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5
 for f in *.zip; do unzip -q -o "$f"; done
 ```
 
-Data pulled from ModelScope needs a one-time cleanup pass (outlier removal and
-stationary-step filtering):
-
-```bash
-python utils/calc_stat_remove_outlier.py
-python utils/clean_dataset_stationary.py
-```
-
 Then set `dataset.dataset_dir` in `configs/metaworld.yaml` to the path of your
 unpacked dataset root. To collect your own demonstrations instead, run
 `python scripts/gen_data_hdf5.py`.
