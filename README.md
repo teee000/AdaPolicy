@@ -31,8 +31,7 @@ pip install scipy matplotlib openpyxl imageio tqdm
 
 ## Dataset
 
-The training data (HDF5) is hosted on ModelScope:
-[yangfan97/CNCPolicy-Metaworld-Data-hdf5](https://modelscope.cn/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5)
+The training data (HDF5) is hosted on [ModelScope](https://modelscope.cn/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5).
 
 ```bash
 pip install modelscope
