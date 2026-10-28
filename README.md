@@ -1,5 +1,7 @@
 # AdaPolicy: Action-Driven Anticipatory Robot Policies via Next-Chunk Prediction
 
+[arXiv](https://arxiv.org/abs/2610.34280) | [Project Page](https://teee111.github.io/AdaPolicy/)
+
 AdaPolicy is an action-driven anticipatory policy framework that requires no explicit supervision from future observations in pixel or latent space. By backpropagating future action prediction errors through a cascaded unroll, it shapes a compact and control-aligned future-aware state for the online policy. The framework remains lightweight to train and adds zero inference-time overhead.
 
 The `metaworld/` directory contains the MetaWorld imitation-learning release: joint
