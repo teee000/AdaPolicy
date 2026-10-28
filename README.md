@@ -29,14 +29,44 @@ pip install scipy matplotlib openpyxl imageio tqdm
 ```
 
 
+## Dataset
+
+The training data (HDF5) is hosted on ModelScope:
+[yangfan97/CNCPolicy-Metaworld-Data-hdf5](https://modelscope.cn/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5)
+
+```bash
+pip install modelscope
+
+# (optional) move the cache to a data disk
+export MODELSCOPE_CACHE=/root/autodl-tmp/modelscope_cache
+
+# parallel download
+modelscope download --dataset yangfan97/CNCPolicy-Metaworld-Data-hdf5 --max-workers 10
+
+# unzip all archives into the current directory
+cd $MODELSCOPE_CACHE/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5
+for f in *.zip; do unzip -q -o "$f"; done
+```
+
+Data pulled from ModelScope needs a one-time cleanup pass (outlier removal and
+stationary-step filtering):
+
+```bash
+python utils/calc_stat_remove_outlier.py
+python utils/clean_dataset_stationary.py
+```
+
+Then set `dataset.dataset_dir` in `configs/metaworld.yaml` to the path of your
+unpacked dataset root. To collect your own demonstrations instead, run
+`python scripts/gen_data_hdf5.py`.
+
 ## Preparation
 
 1. **DINOv3 weights**: download `dinov3-vitb16-pretrain-lvd1689m` into
    `./dinov3_pretrain/` (`model.vision_encoder.checkpoint_path` in the config
    points to it). 
-2. **Demonstration data**: run `python scripts/gen_data_hdf5.py` to generate the
-   HDF5 dataset (see the script for default output paths; set
-   `dataset.dataset_dir` in `configs/metaworld.yaml` to the dataset root)
+2. **Demonstration data**: see the **Dataset** section above; make sure
+   `dataset.dataset_dir` in `configs/metaworld.yaml` points to your dataset root
 3. **Normalization stats**: `python utils/compute_norm_stats_metaworld.py`
    (`utils/stat-metaworld.json` is included and can be reused directly if the
    data matches)
