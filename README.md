@@ -2,8 +2,8 @@
 
 AdaPolicy is an action-driven anticipatory policy framework that requires no explicit supervision from future observations in pixel or latent space. By backpropagating future action prediction errors through a cascaded unroll, it shapes a compact and control-aligned future-aware state for the online policy. The framework remains lightweight to train and adds zero inference-time overhead.
 
-This directory is the MetaWorld imitation-learning release: joint imitation learning on
-50 MetaWorld tasks.
+The `metaworld/` directory contains the MetaWorld imitation-learning release: joint
+imitation learning on 50 MetaWorld tasks.
 
 
 ### Installation
@@ -20,6 +20,12 @@ pip install transformers==5.0.0rc0 omegaconf accelerate h5py opencv-python
 pip install metaworld==3.1.1 mujoco gymnasium
 
 pip install scipy matplotlib openpyxl imageio tqdm
+```
+
+Run the remaining MetaWorld commands from the `metaworld/` directory:
+
+```bash
+cd metaworld
 ```
 
 
@@ -39,6 +45,7 @@ modelscope download --dataset yangfan97/CNCPolicy-Metaworld-Data-hdf5 --max-work
 # unzip all archives into the current directory
 cd $MODELSCOPE_CACHE/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5
 for f in *.zip; do unzip -q -o "$f"; done
+cd -  # return to the metaworld directory
 ```
 
 Then set `dataset.dataset_dir` in `configs/metaworld.yaml` to the path of your

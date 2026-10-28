@@ -1,0 +1,1295 @@
+Outlier Report - Mode: both - Total: 429
+============================================================
+Threshold: Action joint dims exceed ±π (3.1416)
+Delete mode: ON
+
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode427.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode251.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode114.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode318.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode347.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode298.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode287.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode121.hdf5 -> Dims: [7, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode275.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode213.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode399.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_clean/data/episode38.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode451.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode323.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode358.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode499.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_clean/data/episode40.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode46.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode493.hdf5 -> Dims: [2, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode1.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode434.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode277.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_clean/data/episode31.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode65.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode143.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode302.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode488.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode0.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode246.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode57.hdf5 -> Dims: [7, 9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode377.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode187.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode480.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_clean/data/episode29.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode415.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode21.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode112.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode50.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode312.hdf5 -> Dims: [7, 9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode175.hdf5 -> Dims: [7, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode407.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode479.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode246.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode71.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode270.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode101.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode35.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode207.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode461.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode384.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/data/episode348.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/data/episode272.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode85.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode279.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode314.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode229.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_pillbottle_pad/demo_clean/data/episode24.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode405.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode378.hdf5 -> Dims: [7, 9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode397.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode98.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_stapler_pad/demo_clean/data/episode24.hdf5 -> Dims: [7, 9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/data/episode46.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/data/episode55.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_dual_bottles/demo_randomized/data/episode141.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_clean/data/episode44.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/data/episode439.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/data/episode331.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_clean/data/episode46.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode175.hdf5 -> Dims: [7, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode101.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode25.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode305.hdf5 -> Dims: [7, 9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_bread_skillet/demo_clean/data/episode28.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_burger_fries/demo_randomized/data/episode55.hdf5 -> Dims: [2, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_clean/data/episode48.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode248.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode473.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode339.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode54.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode417.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode98.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode44.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode1.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode18.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode11.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode23.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode36.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode48.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode263.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode110.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode234.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode140.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode224.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode394.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode88.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode126.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode148.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode450.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode176.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode44.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode419.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode72.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode184.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode411.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode1.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode192.hdf5 -> Dims: [5, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode205.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode476.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode395.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode285.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode0.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode479.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode79.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode489.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode109.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode162.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode327.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode455.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode382.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode498.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode87.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode270.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode214.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode466.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode179.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode123.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode118.hdf5 -> Dims: [5, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode436.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode142.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode344.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode212.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode368.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode189.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode346.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode107.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode193.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode444.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode429.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode41.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode401.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode171.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode74.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode199.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode480.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode112.hdf5 -> Dims: [5, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode498.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode167.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode399.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode254.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode44.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode16.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode36.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode181.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode188.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode157.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode245.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode227.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode445.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode154.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode281.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode273.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode209.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode148.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode145.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode464.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode457.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode490.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode416.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode364.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode476.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode395.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode387.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode298.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode127.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode297.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode257.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode366.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode452.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode58.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode104.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode37.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode164.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode412.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode93.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode491.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode223.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode94.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode83.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode269.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode101.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode358.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode307.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode417.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode38.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode149.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode438.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode29.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode189.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode107.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode128.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode444.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode361.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode424.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode169.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode471.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode319.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode288.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode241.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode211.hdf5 -> Dims: [2, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_clean/data/episode35.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode263.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode427.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode428.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode227.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode175.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode249.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode80.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode350.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode133.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode339.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode376.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode54.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode43.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode275.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode216.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode383.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode11.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode218.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode401.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode301.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode202.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode315.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode108.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode355.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode144.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode418.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode453.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_stand/demo_randomized/data/episode436.hdf5 -> Dims: [7, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_clean/data/episode34.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode474.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode445.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode464.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode184.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode473.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode267.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode285.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode413.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode18.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode217.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode257.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode244.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode352.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode123.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode247.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode367.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode229.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode368.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode119.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode256.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode370.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode389.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode404.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode169.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode320.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode315.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode22.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode44.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode13.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode278.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode483.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode369.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode451.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode148.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode44.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode1.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode432.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode387.hdf5 -> Dims: [2, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode136.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode329.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode313.hdf5 -> Dims: [2, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode362.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode257.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode54.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode213.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode373.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode5.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode193.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode265.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode202.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode211.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode264.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode369.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode336.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode387.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode155.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode413.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode297.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode257.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode104.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode3.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode51.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode282.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode370.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode52.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode433.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode320.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode151.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode200.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode20.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode443.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode328.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/data/episode20.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/data/episode30.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode46.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode292.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode439.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode264.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode483.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode279.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode153.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode27.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode336.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode488.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode114.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode337.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode196.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode495.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode420.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode441.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode257.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode58.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode70.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode352.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode330.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode418.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode75.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode106.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode368.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode29.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode463.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode128.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode116.hdf5 -> Dims: [5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode429.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode400.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode141.hdf5 -> Dims: [12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode21.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode165.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode22.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode43.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode31.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode27.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode4.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode63.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode192.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode15.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode139.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode361.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode171.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode199.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode241.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/data/episode13.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/data/episode31.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode85.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode143.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode274.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode90.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode72.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode152.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode83.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode447.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode286.hdf5 -> Dims: [9, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode150.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode172.hdf5 -> Dims: [1, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode193.hdf5 -> Dims: [8, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_blocks_three/demo_randomized/data/episode375.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode222.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode385.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode91.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode308.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode161.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode205.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode237.hdf5 -> Dims: [2, 9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode283.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode363.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode277.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode498.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode231.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode43.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode225.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode272.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode149.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode189.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode124.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode433.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode157.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode437.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode495.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode347.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode54.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode380.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode216.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode360.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode345.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode435.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode319.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_clean/data/episode0.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode26.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode395.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode313.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode287.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/data/episode46.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/data/episode38.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode439.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode425.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode264.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode312.hdf5 -> Dims: [0, 5]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode364.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode136.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode0.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode129.hdf5 -> Dims: [0]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode414.hdf5 -> Dims: [9]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode164.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode293.hdf5 -> Dims: [7]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode290.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode149.hdf5 -> Dims: [2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode372.hdf5 -> Dims: [7, 12]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode435.hdf5 -> Dims: [0, 2]
+[Action] /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode315.hdf5 -> Dims: [2]
+
+============================================================
+DELETED FILES (858):
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode427.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode427.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode251.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode251.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode114.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode114.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode318.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode318.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode347.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode347.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode298.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode298.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode287.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode287.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode121.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode121.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode275.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode275.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode213.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode213.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/data/episode399.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/adjust_bottle/demo_randomized/instructions/episode399.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_clean/data/episode38.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_clean/instructions/episode38.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode451.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/instructions/episode451.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode323.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/instructions/episode323.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode358.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/instructions/episode358.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/data/episode499.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_rgb/demo_randomized/instructions/episode499.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_clean/data/episode40.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_clean/instructions/episode40.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode46.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/instructions/episode46.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode493.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/instructions/episode493.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode1.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/instructions/episode1.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode434.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/instructions/episode434.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/data/episode277.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/blocks_ranking_size/demo_randomized/instructions/episode277.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_clean/data/episode31.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_clean/instructions/episode31.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode65.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode65.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode143.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode143.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode302.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode302.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode488.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode488.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode0.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode0.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode246.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode246.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode57.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode57.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode377.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode377.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode187.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode187.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/data/episode480.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/grab_roller/demo_randomized/instructions/episode480.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_clean/data/episode29.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_clean/instructions/episode29.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode415.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/instructions/episode415.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode21.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/instructions/episode21.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/data/episode112.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/handover_block/demo_randomized/instructions/episode112.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode50.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode50.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode312.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode312.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode175.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode175.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode407.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode407.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode479.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode479.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode246.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode246.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode71.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode71.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode270.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode270.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode101.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode101.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode35.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode35.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode207.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode207.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode461.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode461.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/data/episode384.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/hanging_mug/demo_randomized/instructions/episode384.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/data/episode348.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/instructions/episode348.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/data/episode272.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/lift_pot/demo_randomized/instructions/episode272.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode85.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/instructions/episode85.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode279.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/instructions/episode279.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode314.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/instructions/episode314.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/data/episode229.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_can_pot/demo_randomized/instructions/episode229.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_pillbottle_pad/demo_clean/data/episode24.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_pillbottle_pad/demo_clean/instructions/episode24.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode405.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/instructions/episode405.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode378.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/instructions/episode378.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode397.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/instructions/episode397.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/data/episode98.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_playingcard_away/demo_randomized/instructions/episode98.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_stapler_pad/demo_clean/data/episode24.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/move_stapler_pad/demo_clean/instructions/episode24.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/data/episode46.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/instructions/episode46.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/data/episode55.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_diverse_bottles/demo_randomized/instructions/episode55.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_dual_bottles/demo_randomized/data/episode141.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/pick_dual_bottles/demo_randomized/instructions/episode141.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_clean/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_clean/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/data/episode439.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/instructions/episode439.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/data/episode331.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_left/demo_randomized/instructions/episode331.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_clean/data/episode46.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_clean/instructions/episode46.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode175.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/instructions/episode175.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode101.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/instructions/episode101.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode25.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/instructions/episode25.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/data/episode305.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_a2b_right/demo_randomized/instructions/episode305.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_bread_skillet/demo_clean/data/episode28.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_bread_skillet/demo_clean/instructions/episode28.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_burger_fries/demo_randomized/data/episode55.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_burger_fries/demo_randomized/instructions/episode55.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_clean/data/episode48.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_clean/instructions/episode48.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode248.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode248.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode473.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode473.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode339.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode339.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode54.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode54.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode417.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode417.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/data/episode98.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_can_basket/demo_randomized/instructions/episode98.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode1.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode1.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode18.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode18.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode11.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode11.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode23.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode23.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/data/episode36.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_clean/instructions/episode36.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode48.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode48.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode263.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode263.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode110.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode110.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode234.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode234.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode140.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode140.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode224.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode224.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode394.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode394.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode88.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode88.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode126.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode126.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode148.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode148.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode450.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode450.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode176.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode176.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode419.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode419.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode72.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode72.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode184.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode184.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode411.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode411.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode1.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode1.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode192.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode192.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode205.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode205.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode476.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode476.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode395.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode395.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode285.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode285.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode0.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode0.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode479.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode479.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode79.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode79.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode489.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode489.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode109.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode109.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode162.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode162.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode327.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode327.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode455.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode455.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode382.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode382.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode498.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode498.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode87.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode87.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode270.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode270.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode214.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode214.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode466.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode466.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode179.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode179.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode123.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode123.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode118.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode118.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode436.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode436.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode142.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode142.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode344.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode344.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode212.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode212.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode368.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode368.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode189.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode189.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode346.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode346.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode107.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode107.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode193.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode193.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode444.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode444.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode429.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode429.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode41.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode41.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode401.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode401.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode171.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode171.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode74.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode74.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode199.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode199.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode480.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode480.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/data/episode112.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_dual_shoes/demo_randomized/instructions/episode112.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode498.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/instructions/episode498.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode167.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/instructions/episode167.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode399.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/instructions/episode399.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/data/episode254.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_fan/demo_randomized/instructions/episode254.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode16.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/instructions/episode16.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/data/episode36.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_clean/instructions/episode36.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode181.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode181.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode188.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode188.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode157.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode157.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode245.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode245.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode227.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode227.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode445.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode445.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode154.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode154.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode281.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode281.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode273.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode273.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode209.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode209.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode148.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode148.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode145.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode145.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode464.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode464.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode457.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode457.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode490.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode490.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode416.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode416.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode364.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode364.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode476.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode476.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode395.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode395.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode387.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode387.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode298.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode298.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode127.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode127.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode297.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode297.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode257.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode257.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode366.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode366.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode452.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode452.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode58.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode58.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode104.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode104.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode37.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode37.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode164.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode164.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode412.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode412.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode93.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode93.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode491.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode491.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode223.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode223.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode94.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode94.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode83.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode83.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode269.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode269.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode101.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode101.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode358.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode358.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode307.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode307.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode417.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode417.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode38.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode38.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode149.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode149.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode438.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode438.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode29.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode29.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode189.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode189.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode107.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode107.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode128.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode128.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode444.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode444.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode361.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode361.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode424.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode424.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode169.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode169.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode471.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode471.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode319.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode319.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode288.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode288.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode241.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode241.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/data/episode211.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_mouse_pad/demo_randomized/instructions/episode211.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_clean/data/episode35.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_clean/instructions/episode35.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode263.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode263.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode427.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode427.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode428.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode428.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode227.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode227.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode175.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode175.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode249.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode249.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode80.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode80.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode350.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode350.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode133.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode133.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode339.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode339.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode376.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode376.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode54.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode54.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode43.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode43.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode275.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode275.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode216.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode216.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode383.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode383.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode11.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode11.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode218.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode218.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode401.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode401.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode301.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode301.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode202.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode202.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/data/episode315.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_basket/demo_randomized/instructions/episode315.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode108.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/instructions/episode108.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode355.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/instructions/episode355.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode144.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/instructions/episode144.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode418.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/instructions/episode418.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/data/episode453.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_scale/demo_randomized/instructions/episode453.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_stand/demo_randomized/data/episode436.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_object_stand/demo_randomized/instructions/episode436.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_clean/data/episode34.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_clean/instructions/episode34.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode474.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode474.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode445.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode445.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode464.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode464.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode184.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode184.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode473.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode473.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode267.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode267.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode285.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode285.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode413.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode413.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode18.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode18.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode217.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode217.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode257.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode257.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode244.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode244.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode352.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode352.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode123.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode123.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode247.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode247.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode367.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode367.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode229.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode229.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode368.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode368.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode119.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode119.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode256.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode256.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode370.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode370.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode389.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode389.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode404.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode404.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode169.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode169.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode320.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode320.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/data/episode315.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/place_shoe/demo_randomized/instructions/episode315.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode22.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/instructions/episode22.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/data/episode13.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_clean/instructions/episode13.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode278.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode278.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode483.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode483.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode369.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode369.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode451.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode451.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode148.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode148.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode44.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode44.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode1.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode1.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode432.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode432.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode387.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode387.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode136.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode136.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode329.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode329.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode313.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode313.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode362.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode362.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode257.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode257.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode54.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode54.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode213.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode213.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode373.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode373.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode5.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode5.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode193.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode193.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode265.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode265.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode202.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode202.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/data/episode211.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/press_stapler/demo_randomized/instructions/episode211.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode264.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode264.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode369.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode369.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode336.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode336.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode387.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode387.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode155.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode155.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode413.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode413.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode297.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode297.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode257.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode257.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode104.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode104.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode3.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode3.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode51.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode51.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode282.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode282.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode370.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode370.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode52.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode52.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode433.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode433.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode320.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode320.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/data/episode151.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_bottles_dustbin/demo_randomized/instructions/episode151.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode200.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/instructions/episode200.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode20.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/instructions/episode20.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode443.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/instructions/episode443.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/data/episode328.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/put_object_cabinet/demo_randomized/instructions/episode328.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/data/episode20.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/instructions/episode20.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/data/episode30.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_clean/instructions/episode30.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode46.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode46.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode292.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode292.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode439.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode439.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode264.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode264.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode483.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode483.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode279.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode279.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode153.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode153.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode27.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode27.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode336.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode336.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode488.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode488.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode114.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode114.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode337.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode337.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode196.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode196.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode495.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode495.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode420.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode420.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode441.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode441.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode257.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode257.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode58.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode58.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode70.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode70.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode352.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode352.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode330.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode330.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode418.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode418.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode75.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode75.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode106.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode106.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode368.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode368.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode29.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode29.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode463.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode463.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode128.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode128.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode116.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode116.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode429.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode429.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/data/episode400.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/rotate_qrcode/demo_randomized/instructions/episode400.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode141.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/instructions/episode141.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode21.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/instructions/episode21.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/data/episode165.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/scan_object/demo_randomized/instructions/episode165.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode22.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/instructions/episode22.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode43.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/instructions/episode43.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/data/episode31.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_clean/instructions/episode31.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode27.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode27.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode4.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode4.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode63.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode63.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode192.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode192.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode15.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode15.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode139.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode139.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode361.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode361.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode171.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode171.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode199.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode199.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/data/episode241.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle/demo_randomized/instructions/episode241.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/data/episode13.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/instructions/episode13.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/data/episode31.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_clean/instructions/episode31.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode85.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode85.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode143.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode143.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode274.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode274.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode90.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode90.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode72.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode72.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode152.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode152.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode83.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode83.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode447.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode447.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode286.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode286.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode150.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode150.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode172.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode172.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/data/episode193.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/shake_bottle_horizontally/demo_randomized/instructions/episode193.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_blocks_three/demo_randomized/data/episode375.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_blocks_three/demo_randomized/instructions/episode375.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode222.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode222.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode385.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode385.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode91.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode91.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode308.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode308.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode161.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode161.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode205.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode205.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode237.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode237.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode283.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode283.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode363.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode363.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode277.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode277.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode498.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode498.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode231.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode231.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode43.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode43.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode225.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode225.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode272.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode272.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode149.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode149.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode189.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode189.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode124.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode124.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/data/episode433.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_three/demo_randomized/instructions/episode433.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode157.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode157.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode437.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode437.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode495.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode495.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode347.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode347.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode54.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode54.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode380.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode380.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode216.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode216.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode360.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode360.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode345.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode345.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode435.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode435.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/data/episode319.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stack_bowls_two/demo_randomized/instructions/episode319.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_clean/data/episode0.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_clean/instructions/episode0.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode26.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/instructions/episode26.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode395.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/instructions/episode395.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode313.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/instructions/episode313.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/data/episode287.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/stamp_seal/demo_randomized/instructions/episode287.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/data/episode46.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/instructions/episode46.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/data/episode38.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_clean/instructions/episode38.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode439.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode439.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode425.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode425.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode264.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode264.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode312.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode312.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode364.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode364.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode136.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode136.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode0.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode0.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode129.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode129.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode414.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode414.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode164.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode164.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode293.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode293.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode290.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode290.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode149.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode149.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode372.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode372.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode435.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode435.json
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/data/episode315.hdf5
+  /home/yf/Desktop/Code/VLA/RoboTwin/RoboTwin/data/turn_switch/demo_randomized/instructions/episode315.json

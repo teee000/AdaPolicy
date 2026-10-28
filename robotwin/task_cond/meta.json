@@ -1,0 +1,263 @@
+{
+  "dino_checkpoint": "/home/yf/Desktop/Code/VLA/DINOV3_HDF5-Myself/dinov3_pretrain/dinov3-vitl16-pretrain-lvd1689m",
+  "hidden_size": 1024,
+  "image_size": [
+    320,
+    240
+  ],
+  "data_mode": "both",
+  "camera_name": "head_camera",
+  "feature": "last_layer_cls_diff (last_frame - first_frame), averaged per task",
+  "tasks": {
+    "adjust_bottle": {
+      "num_episodes": 539,
+      "dim": 1024,
+      "norm": 6.307210922241211
+    },
+    "beat_block_hammer": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 7.016249179840088
+    },
+    "blocks_ranking_rgb": {
+      "num_episodes": 545,
+      "dim": 1024,
+      "norm": 9.291302680969238
+    },
+    "blocks_ranking_size": {
+      "num_episodes": 544,
+      "dim": 1024,
+      "norm": 10.773685455322266
+    },
+    "click_alarmclock": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 3.570967435836792
+    },
+    "click_bell": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 5.71722936630249
+    },
+    "dump_bin_bigbin": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 5.698848724365234
+    },
+    "grab_roller": {
+      "num_episodes": 539,
+      "dim": 1024,
+      "norm": 11.86460018157959
+    },
+    "handover_block": {
+      "num_episodes": 546,
+      "dim": 1024,
+      "norm": 6.089921474456787
+    },
+    "handover_mic": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 10.095392227172852
+    },
+    "hanging_mug": {
+      "num_episodes": 537,
+      "dim": 1024,
+      "norm": 5.319698810577393
+    },
+    "lift_pot": {
+      "num_episodes": 548,
+      "dim": 1024,
+      "norm": 7.689692497253418
+    },
+    "move_can_pot": {
+      "num_episodes": 546,
+      "dim": 1024,
+      "norm": 4.617999076843262
+    },
+    "move_pillbottle_pad": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 6.34823751449585
+    },
+    "move_playingcard_away": {
+      "num_episodes": 546,
+      "dim": 1024,
+      "norm": 2.328648328781128
+    },
+    "move_stapler_pad": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 6.763489246368408
+    },
+    "open_laptop": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 11.389841079711914
+    },
+    "open_microwave": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 7.157294273376465
+    },
+    "pick_diverse_bottles": {
+      "num_episodes": 548,
+      "dim": 1024,
+      "norm": 9.198946952819824
+    },
+    "pick_dual_bottles": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 10.412873268127441
+    },
+    "place_a2b_left": {
+      "num_episodes": 547,
+      "dim": 1024,
+      "norm": 8.417881965637207
+    },
+    "place_a2b_right": {
+      "num_episodes": 545,
+      "dim": 1024,
+      "norm": 7.929403305053711
+    },
+    "place_bread_basket": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 11.063482284545898
+    },
+    "place_bread_skillet": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 12.52194881439209
+    },
+    "place_burger_fries": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 10.081964492797852
+    },
+    "place_can_basket": {
+      "num_episodes": 543,
+      "dim": 1024,
+      "norm": 11.795077323913574
+    },
+    "place_cans_plasticbox": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 4.84610652923584
+    },
+    "place_container_plate": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 7.458384037017822
+    },
+    "place_dual_shoes": {
+      "num_episodes": 486,
+      "dim": 1024,
+      "norm": 11.663847923278809
+    },
+    "place_empty_cup": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 8.8148832321167
+    },
+    "place_fan": {
+      "num_episodes": 546,
+      "dim": 1024,
+      "norm": 5.838992118835449
+    },
+    "place_mouse_pad": {
+      "num_episodes": 490,
+      "dim": 1024,
+      "norm": 6.8196940422058105
+    },
+    "place_object_basket": {
+      "num_episodes": 527,
+      "dim": 1024,
+      "norm": 10.508804321289062
+    },
+    "place_object_scale": {
+      "num_episodes": 545,
+      "dim": 1024,
+      "norm": 7.844882011413574
+    },
+    "place_object_stand": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 10.965598106384277
+    },
+    "place_phone_stand": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 9.692739486694336
+    },
+    "place_shoe": {
+      "num_episodes": 523,
+      "dim": 1024,
+      "norm": 11.665009498596191
+    },
+    "press_stapler": {
+      "num_episodes": 525,
+      "dim": 1024,
+      "norm": 8.360969543457031
+    },
+    "put_bottles_dustbin": {
+      "num_episodes": 533,
+      "dim": 1024,
+      "norm": 8.793244361877441
+    },
+    "put_object_cabinet": {
+      "num_episodes": 546,
+      "dim": 1024,
+      "norm": 13.060949325561523
+    },
+    "rotate_qrcode": {
+      "num_episodes": 517,
+      "dim": 1024,
+      "norm": 4.929602146148682
+    },
+    "scan_object": {
+      "num_episodes": 547,
+      "dim": 1024,
+      "norm": 8.660961151123047
+    },
+    "shake_bottle": {
+      "num_episodes": 537,
+      "dim": 1024,
+      "norm": 7.037543773651123
+    },
+    "shake_bottle_horizontally": {
+      "num_episodes": 536,
+      "dim": 1024,
+      "norm": 7.075186729431152
+    },
+    "stack_blocks_three": {
+      "num_episodes": 549,
+      "dim": 1024,
+      "norm": 11.30948543548584
+    },
+    "stack_blocks_two": {
+      "num_episodes": 550,
+      "dim": 1024,
+      "norm": 11.225260734558105
+    },
+    "stack_bowls_three": {
+      "num_episodes": 531,
+      "dim": 1024,
+      "norm": 8.513993263244629
+    },
+    "stack_bowls_two": {
+      "num_episodes": 539,
+      "dim": 1024,
+      "norm": 8.27971363067627
+    },
+    "stamp_seal": {
+      "num_episodes": 545,
+      "dim": 1024,
+      "norm": 6.274466037750244
+    },
+    "turn_switch": {
+      "num_episodes": 532,
+      "dim": 1024,
+      "norm": 8.593344688415527
+    }
+  }
+}

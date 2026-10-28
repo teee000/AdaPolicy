@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Checkpoints and training outputs
+checkpoints_vla/
+*.pt
+*.pth
+
+# Pretrained weights
+dinov3_pretrain/
+
+# Data
+*.hdf5
+*.h5
+
+# Logs and miscellaneous files
+*.log
+log/
+logs/
+.DS_Store
