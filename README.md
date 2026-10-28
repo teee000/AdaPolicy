@@ -5,6 +5,8 @@ AdaPolicy is an action-driven anticipatory policy framework that requires no exp
 The `metaworld/` directory contains the MetaWorld imitation-learning release: joint
 imitation learning on 50 MetaWorld tasks.
 
+The `robotwin/` directory contains training code for 50 tasks in the RoboTwin 2.0 environment.
+
 
 ### Installation
 
@@ -88,3 +90,7 @@ python scripts/eval_metaworld_parallel.py \
     --config <ckpt_dir>/config.yaml --checkpoint <ckpt.pt> \
     --task all --num-episodes 50 --num-envs 50
 ```
+
+## RoboTwin 2.0
+
+For data download and preprocessing in the RoboTwin 2.0 environment, refer to [LiLa-WAM](https://github.com/teee000/LiLa-WAM).
