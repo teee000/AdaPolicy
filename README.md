@@ -35,10 +35,6 @@ pip install scipy matplotlib openpyxl imageio tqdm
 
 Run the remaining MetaWorld commands from the `metaworld/` directory:
 
-```bash
-cd metaworld
-```
-
 
 ## Dataset
 
@@ -56,7 +52,6 @@ modelscope download --dataset yangfan97/CNCPolicy-Metaworld-Data-hdf5 --max-work
 # unzip all archives into the current directory
 cd $MODELSCOPE_CACHE/datasets/yangfan97/CNCPolicy-Metaworld-Data-hdf5
 for f in *.zip; do unzip -q -o "$f"; done
-cd -  # return to the metaworld directory
 ```
 
 Then set `dataset.dataset_dir` in `configs/metaworld.yaml` to the path of your
@@ -77,8 +72,8 @@ unpacked dataset root. To collect your own demonstrations instead, run
 ## Training
 
 ```bash
-./run_train_ema.sh all 40       # early stop after epoch 40 (decay schedule still spans 60)
-./run_train_ema.sh resume <ckpt>  # resume training (incl. EMA state)
+./run_train_ema.sh all 40       # early stop after epoch 40
+./run_train_ema.sh resume <ckpt>  # resume training 
 ```
 
 Checkpoints are saved to `checkpoints_vla/ema_ig_all_<timestamp>/` and contain
