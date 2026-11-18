@@ -77,8 +77,7 @@ unpacked dataset root. To collect your own demonstrations instead, run
 ```
 
 Checkpoints are saved to `checkpoints_vla/ema_ig_all_<timestamp>/` and contain
-`model_state_dict` and `ema_state_dict`; saved every 5 epochs, with the training
-`config.yaml` stored alongside.
+`model_state_dict` and `ema_state_dict`.
 
 Key config of (`configs/metaworld.yaml` → `training`):
 `use_next_chunk_pred: true`, `lambda_next_chunk: 0.8`,
