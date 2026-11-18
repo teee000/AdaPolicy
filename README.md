@@ -81,9 +81,9 @@ Checkpoints are saved to `checkpoints_vla/ema_ig_all_<timestamp>/` and contain
 `config.yaml` stored alongside.
 
 Key config of (`configs/metaworld.yaml` → `training`):
-`use_next_chunk_pred: true` (next-chunk prediction), `lambda_next_chunk: 0.8`,
+`use_next_chunk_pred: true`, `lambda_next_chunk: 0.8`,
 `use_ema: true`, `ema_decay: 0.99`, `batch_size: 128`,
-`common.action_chunk_size: 8` (first 8 steps executed at inference).
+`common.action_chunk_size: 8`.
 
 ## Evaluation
 
